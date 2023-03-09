@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @neeltate24
 - 👀 I’m interested in front-end development
-- 🌱 I’m currently learning CSS and Bootstrap
+- 🌱 I’m currently learning Js and Css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
